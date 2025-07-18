@@ -26,10 +26,6 @@
 - Database: MySQL
 - APIs: RESTful Architecture
 
-## 📸 Screenshots *(Optional)*
-
-*(Add screenshots of your CRM UI here if available, to increase credibility and engagement.)*
-
 ## 📄 License
 
 This repository is intended for informational and promotional us
